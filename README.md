@@ -1,3 +1,3 @@
 # devcode
 development code
-This project is only testing purpose
+This project is only for testing purpose
